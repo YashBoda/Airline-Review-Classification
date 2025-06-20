@@ -1,3 +1,5 @@
 *.safetensors
 saved_model_category/
+saved_model_label/*.safetensors
+saved_model_category/
 saved_model_label/
